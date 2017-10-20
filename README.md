@@ -1,5 +1,6 @@
 <img src="https://cdn.rawgit.com/akveo/react-native-ui-kitten/085afb52/docs/assets/banner.png"/>
 
+# Testing in react-xp
 # react-native-ui-kitten
 
 react-native-ui-kitten is a framework that contains a set of commonly used UI components styled in a similar way. 
